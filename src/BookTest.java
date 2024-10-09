@@ -1,9 +1,5 @@
 public class BookTest {
     public static void main(String[] args) {
-        //int position = Utilities.getFirstRepeatedCharacter("lokokoko");
-        //System.out.println("The Same character starts in position " + position);
-
-        //Utilities.goDownToOne(6);
 
         Book firstBook = new Book("Exciting new recipes for people who want something quick an easy",52);
         Book secondBook = new Book("The big catalogue of all green animals ever existed", 55);
